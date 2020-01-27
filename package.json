@@ -1,0 +1,8 @@
+{
+  "name": "gostack_bootcamp2020_modulo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dcapassi/gostack_bootcamp2020_modulo1.git",
+  "author": "Diego Capassi <diego.capassi.moreira@gmail.com>",
+  "license": "MIT"
+}
