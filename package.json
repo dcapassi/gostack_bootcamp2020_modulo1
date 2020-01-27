@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/dcapassi/gostack_bootcamp2020_modulo1.git",
   "author": "Diego Capassi <diego.capassi.moreira@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
